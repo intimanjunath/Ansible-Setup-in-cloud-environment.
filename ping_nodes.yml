@@ -1,0 +1,7 @@
+---
+•⁠  ⁠name: Ping nodes
+  hosts: webservers
+  gather_facts: no
+  tasks:
+    - name: Ping the nodes
+      ansible.builtin.ping:
