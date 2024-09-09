@@ -6,3 +6,4 @@ I deployed three virtual machines and configured an Ansible server on VM1 to man
 The Ansible playbook includes tasks to both deploy and undeploy all web server resources.
 
 For a detailed explanation of the process and results, please refer to the Word document submitted on Canvas.
+https://drive.google.com/file/d/1ef4O1oDXyJOuYlddNDf-injtKRAVqDZA/view 
